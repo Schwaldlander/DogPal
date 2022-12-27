@@ -5,3 +5,4 @@ numpy
 tensorflow  # == 1.12.0
 streamlit
 #tensorflow-gpu
+protobuf == 3.9.2
