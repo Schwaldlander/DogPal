@@ -4,3 +4,4 @@ tflite_runtime
 numpy
 tensorflow
 streamlit
+tensorflow-gpu
