@@ -2,4 +2,6 @@ freeglut3-dev
 libgtk2.0-dev
 libgstreamer1.0.0
 libglu1
-libusb-1.0-0-dev
+#libusb-1.0-0-dev
+libusb-1.0.0
+libgl1-mesa-glx
