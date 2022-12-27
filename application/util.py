@@ -15,8 +15,6 @@ Interpreter = tf.lite.Interpreter
 load_delegate = tf.lite.experimental.load_delegate
 
 
-
-
 class ObjectDetectorOptions(NamedTuple):
   """A config to initialize an object detector."""
 
@@ -308,6 +306,6 @@ def load_model():
     DETECTION_THRESHOLD = 0.3
     options = ObjectDetectorOptions(num_threads=4,
                                     score_threshold=DETECTION_THRESHOLD)
-    detector = ObjectDetector(model_path="assets/apple_lr_1.0.0_beta.tflite", options=options)
+    detector = ObjectDetector(model_path="asset/apple_lr_1.0.0_beta.tflite", options=options)
 
     return detector
