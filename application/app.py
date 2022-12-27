@@ -7,7 +7,7 @@ import time
 
 from util import *
 
-st.set_page_config(page_title='DogPal', page_icon = 'logo.jpeg')
+st.set_page_config(page_title='DogPal', page_icon = 'gglogo3.png')
 st.title("DogPal single shot inference")
 
 detector = load_model()
