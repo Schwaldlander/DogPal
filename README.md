@@ -15,3 +15,5 @@ What kind of dog is that? This will let you find out!
 4. run run_rout.py, wait for initialisation to complete, open http://127.0.0.1:5000
 
 5. Run dog_train to train the model.
+
+6. Remind that we store the model by conversions to TFLite
