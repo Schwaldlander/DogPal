@@ -1,6 +1,6 @@
 # DogPal
 What kind of dog is that? This will let you find out!
-
+This project builds an adorable visual interface and a classification algorithm for dog species classification.
 
 ### Project Guidelines
 
